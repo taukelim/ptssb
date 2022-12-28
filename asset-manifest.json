@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ptssb/static/css/main.7b5d0abb.css",
+    "main.js": "/ptssb/static/js/main.0a0e248c.js",
+    "static/media/ptSSB-hero-1.jpeg": "/ptssb/static/media/ptSSB-hero-1.c315198e298ba597a6f8.jpeg",
+    "index.html": "/ptssb/index.html",
+    "main.7b5d0abb.css.map": "/ptssb/static/css/main.7b5d0abb.css.map",
+    "main.0a0e248c.js.map": "/ptssb/static/js/main.0a0e248c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b5d0abb.css",
+    "static/js/main.0a0e248c.js"
+  ]
+}
